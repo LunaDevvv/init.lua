@@ -1,7 +1,7 @@
 ----------------------------------------------------------
 -- ThePrimogen init.lua - One file.
 -- Doesn't load correctly for me if it is multiple files.
--- Compiled by Lunadevvv (Luna)
+-- Compiled by PuppyNuff (Shiro)
 ---------------------------------------------------------
 
 -------------
